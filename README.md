@@ -1,6 +1,6 @@
 # Proximal-Gradient-Method
 
-[「qiita」]()で、近接勾配法を実装した時のプログラム。
+[「qiita」](https://qiita.com/hokuto_HIRANO/items/9750290cb34a3e4570f1)で、近接勾配法を実装した時のプログラム。
 
 ディレクトリ「source」には、以下の４種の正則化によるロジスティック回帰を実装している。
 
